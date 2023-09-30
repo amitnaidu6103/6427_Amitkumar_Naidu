@@ -20,7 +20,6 @@
     border-radius: 12px;
     transition: all 0.3s ease;
 }
-
 ::-webkit-scrollbar-thumb:hover {
     background: #4070f4;
 }
@@ -324,7 +323,7 @@ section .button a:hover{
 /* My Skills Section */
 section {
     padding-top: 20px;
-    padding-bottom: 40px;
+    padding-bottom: 50px;
     display: flex;
     flex-wrap: wrap;
 }
