@@ -43,3 +43,12 @@ for (var i = 0; i < navLinks.length; i++) {
     menuBtn.style.pointerEvents = "auto";
   });
 }
+
+//home section typing
+var typed= new Typed(".typing", {
+    strings: ["Frontend Developer","Web Developer","Application Developer"],
+    typeSpeed: 100,
+    backSpeed: 100,
+    backDelay: 1000,
+    loop: true
+  });
