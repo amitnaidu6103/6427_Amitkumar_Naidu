@@ -23,7 +23,7 @@ menuBtn.onclick = function(){
   navBar.classList.add("active");
   menuBtn.style.opacity = "0";
   menuBtn.style.pointerEvents = "none";
-  body.style.overflow = "hidden";
+  body.style.overflow = "";
   scrollBtn.style.pointerEvents = "none";
 }
 cancelBtn.onclick = function(){
