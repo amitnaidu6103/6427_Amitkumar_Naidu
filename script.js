@@ -46,7 +46,7 @@ for (var i = 0; i < navLinks.length; i++) {
 
 //home section typing
 var typed= new Typed(".typing", {
-    strings: ["Frontend Developer","Web Developer","Application Developer"],
+    strings: ["Cloud Engineer","Web Developer","Application Developer","UI/UX Designer"],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
